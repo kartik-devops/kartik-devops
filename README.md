@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kartik-devops
-- 👀 I’m interested in Ethical Hacking and playing CTF's
+- 👀 I’m interested in Ethical Hacking and playing CTF's and Web dev to some extent
 - 🌱 I’m currently learning Dev
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on projectzz .
 - 📫 You can reach me only on github
 
 <!---
